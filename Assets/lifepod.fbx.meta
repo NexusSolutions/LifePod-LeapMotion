@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 88bfc0516d2aa5342b760ebdd40ec9ee
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Lamp
+    100006: //RootNode
+    100008: SDI 250215-02 LifePod Rendering REV A
+    100010: SDI 250215-02 LifePod Rendering REV A.001
+    100012: SDI 250215-02 LifePod Rendering REV A.001_MeshPart0
+    100014: SDI 250215-02 LifePod Rendering REV A.001_MeshPart1
+    100016: SDI 250215-02 LifePod Rendering REV A.001_MeshPart10
+    100018: SDI 250215-02 LifePod Rendering REV A.001_MeshPart11
+    100020: SDI 250215-02 LifePod Rendering REV A.001_MeshPart12
+    100022: SDI 250215-02 LifePod Rendering REV A.001_MeshPart13
+    100024: SDI 250215-02 LifePod Rendering REV A.001_MeshPart14
+    100026: SDI 250215-02 LifePod Rendering REV A.001_MeshPart15
+    100028: SDI 250215-02 LifePod Rendering REV A.001_MeshPart16
+    100030: SDI 250215-02 LifePod Rendering REV A.001_MeshPart17
+    100032: SDI 250215-02 LifePod Rendering REV A.001_MeshPart2
+    100034: SDI 250215-02 LifePod Rendering REV A.001_MeshPart3
+    100036: SDI 250215-02 LifePod Rendering REV A.001_MeshPart4
+    100038: SDI 250215-02 LifePod Rendering REV A.001_MeshPart5
+    100040: SDI 250215-02 LifePod Rendering REV A.001_MeshPart6
+    100042: SDI 250215-02 LifePod Rendering REV A.001_MeshPart7
+    100044: SDI 250215-02 LifePod Rendering REV A.001_MeshPart8
+    100046: SDI 250215-02 LifePod Rendering REV A.001_MeshPart9
+    100048: SDI 250215-02 LifePod Rendering REV A_MeshPart0
+    100050: SDI 250215-02 LifePod Rendering REV A_MeshPart1
+    100052: SDI 250215-02 LifePod Rendering REV A_MeshPart10
+    100054: SDI 250215-02 LifePod Rendering REV A_MeshPart11
+    100056: SDI 250215-02 LifePod Rendering REV A_MeshPart12
+    100058: SDI 250215-02 LifePod Rendering REV A_MeshPart13
+    100060: SDI 250215-02 LifePod Rendering REV A_MeshPart14
+    100062: SDI 250215-02 LifePod Rendering REV A_MeshPart15
+    100064: SDI 250215-02 LifePod Rendering REV A_MeshPart16
+    100066: SDI 250215-02 LifePod Rendering REV A_MeshPart17
+    100068: SDI 250215-02 LifePod Rendering REV A_MeshPart2
+    100070: SDI 250215-02 LifePod Rendering REV A_MeshPart3
+    100072: SDI 250215-02 LifePod Rendering REV A_MeshPart4
+    100074: SDI 250215-02 LifePod Rendering REV A_MeshPart5
+    100076: SDI 250215-02 LifePod Rendering REV A_MeshPart6
+    100078: SDI 250215-02 LifePod Rendering REV A_MeshPart7
+    100080: SDI 250215-02 LifePod Rendering REV A_MeshPart8
+    100082: SDI 250215-02 LifePod Rendering REV A_MeshPart9
+    400000: Camera
+    400002: Cube
+    400004: Lamp
+    400006: //RootNode
+    400008: SDI 250215-02 LifePod Rendering REV A
+    400010: SDI 250215-02 LifePod Rendering REV A.001
+    400012: SDI 250215-02 LifePod Rendering REV A.001_MeshPart0
+    400014: SDI 250215-02 LifePod Rendering REV A.001_MeshPart1
+    400016: SDI 250215-02 LifePod Rendering REV A.001_MeshPart10
+    400018: SDI 250215-02 LifePod Rendering REV A.001_MeshPart11
+    400020: SDI 250215-02 LifePod Rendering REV A.001_MeshPart12
+    400022: SDI 250215-02 LifePod Rendering REV A.001_MeshPart13
+    400024: SDI 250215-02 LifePod Rendering REV A.001_MeshPart14
+    400026: SDI 250215-02 LifePod Rendering REV A.001_MeshPart15
+    400028: SDI 250215-02 LifePod Rendering REV A.001_MeshPart16
+    400030: SDI 250215-02 LifePod Rendering REV A.001_MeshPart17
+    400032: SDI 250215-02 LifePod Rendering REV A.001_MeshPart2
+    400034: SDI 250215-02 LifePod Rendering REV A.001_MeshPart3
+    400036: SDI 250215-02 LifePod Rendering REV A.001_MeshPart4
+    400038: SDI 250215-02 LifePod Rendering REV A.001_MeshPart5
+    400040: SDI 250215-02 LifePod Rendering REV A.001_MeshPart6
+    400042: SDI 250215-02 LifePod Rendering REV A.001_MeshPart7
+    400044: SDI 250215-02 LifePod Rendering REV A.001_MeshPart8
+    400046: SDI 250215-02 LifePod Rendering REV A.001_MeshPart9
+    400048: SDI 250215-02 LifePod Rendering REV A_MeshPart0
+    400050: SDI 250215-02 LifePod Rendering REV A_MeshPart1
+    400052: SDI 250215-02 LifePod Rendering REV A_MeshPart10
+    400054: SDI 250215-02 LifePod Rendering REV A_MeshPart11
+    400056: SDI 250215-02 LifePod Rendering REV A_MeshPart12
+    400058: SDI 250215-02 LifePod Rendering REV A_MeshPart13
+    400060: SDI 250215-02 LifePod Rendering REV A_MeshPart14
+    400062: SDI 250215-02 LifePod Rendering REV A_MeshPart15
+    400064: SDI 250215-02 LifePod Rendering REV A_MeshPart16
+    400066: SDI 250215-02 LifePod Rendering REV A_MeshPart17
+    400068: SDI 250215-02 LifePod Rendering REV A_MeshPart2
+    400070: SDI 250215-02 LifePod Rendering REV A_MeshPart3
+    400072: SDI 250215-02 LifePod Rendering REV A_MeshPart4
+    400074: SDI 250215-02 LifePod Rendering REV A_MeshPart5
+    400076: SDI 250215-02 LifePod Rendering REV A_MeshPart6
+    400078: SDI 250215-02 LifePod Rendering REV A_MeshPart7
+    400080: SDI 250215-02 LifePod Rendering REV A_MeshPart8
+    400082: SDI 250215-02 LifePod Rendering REV A_MeshPart9
+    2300000: Cube
+    2300002: SDI 250215-02 LifePod Rendering REV A
+    2300004: SDI 250215-02 LifePod Rendering REV A.001_MeshPart0
+    2300006: SDI 250215-02 LifePod Rendering REV A.001_MeshPart1
+    2300008: SDI 250215-02 LifePod Rendering REV A.001_MeshPart10
+    2300010: SDI 250215-02 LifePod Rendering REV A.001_MeshPart11
+    2300012: SDI 250215-02 LifePod Rendering REV A.001_MeshPart12
+    2300014: SDI 250215-02 LifePod Rendering REV A.001_MeshPart13
+    2300016: SDI 250215-02 LifePod Rendering REV A.001_MeshPart14
+    2300018: SDI 250215-02 LifePod Rendering REV A.001_MeshPart15
+    2300020: SDI 250215-02 LifePod Rendering REV A.001_MeshPart16
+    2300022: SDI 250215-02 LifePod Rendering REV A.001_MeshPart17
+    2300024: SDI 250215-02 LifePod Rendering REV A.001_MeshPart2
+    2300026: SDI 250215-02 LifePod Rendering REV A.001_MeshPart3
+    2300028: SDI 250215-02 LifePod Rendering REV A.001_MeshPart4
+    2300030: SDI 250215-02 LifePod Rendering REV A.001_MeshPart5
+    2300032: SDI 250215-02 LifePod Rendering REV A.001_MeshPart6
+    2300034: SDI 250215-02 LifePod Rendering REV A.001_MeshPart7
+    2300036: SDI 250215-02 LifePod Rendering REV A.001_MeshPart8
+    2300038: SDI 250215-02 LifePod Rendering REV A.001_MeshPart9
+    2300040: SDI 250215-02 LifePod Rendering REV A_MeshPart0
+    2300042: SDI 250215-02 LifePod Rendering REV A_MeshPart1
+    2300044: SDI 250215-02 LifePod Rendering REV A_MeshPart10
+    2300046: SDI 250215-02 LifePod Rendering REV A_MeshPart11
+    2300048: SDI 250215-02 LifePod Rendering REV A_MeshPart12
+    2300050: SDI 250215-02 LifePod Rendering REV A_MeshPart13
+    2300052: SDI 250215-02 LifePod Rendering REV A_MeshPart14
+    2300054: SDI 250215-02 LifePod Rendering REV A_MeshPart15
+    2300056: SDI 250215-02 LifePod Rendering REV A_MeshPart16
+    2300058: SDI 250215-02 LifePod Rendering REV A_MeshPart17
+    2300060: SDI 250215-02 LifePod Rendering REV A_MeshPart2
+    2300062: SDI 250215-02 LifePod Rendering REV A_MeshPart3
+    2300064: SDI 250215-02 LifePod Rendering REV A_MeshPart4
+    2300066: SDI 250215-02 LifePod Rendering REV A_MeshPart5
+    2300068: SDI 250215-02 LifePod Rendering REV A_MeshPart6
+    2300070: SDI 250215-02 LifePod Rendering REV A_MeshPart7
+    2300072: SDI 250215-02 LifePod Rendering REV A_MeshPart8
+    2300074: SDI 250215-02 LifePod Rendering REV A_MeshPart9
+    3300000: Cube
+    3300002: SDI 250215-02 LifePod Rendering REV A
+    3300004: SDI 250215-02 LifePod Rendering REV A.001_MeshPart0
+    3300006: SDI 250215-02 LifePod Rendering REV A.001_MeshPart1
+    3300008: SDI 250215-02 LifePod Rendering REV A.001_MeshPart10
+    3300010: SDI 250215-02 LifePod Rendering REV A.001_MeshPart11
+    3300012: SDI 250215-02 LifePod Rendering REV A.001_MeshPart12
+    3300014: SDI 250215-02 LifePod Rendering REV A.001_MeshPart13
+    3300016: SDI 250215-02 LifePod Rendering REV A.001_MeshPart14
+    3300018: SDI 250215-02 LifePod Rendering REV A.001_MeshPart15
+    3300020: SDI 250215-02 LifePod Rendering REV A.001_MeshPart16
+    3300022: SDI 250215-02 LifePod Rendering REV A.001_MeshPart17
+    3300024: SDI 250215-02 LifePod Rendering REV A.001_MeshPart2
+    3300026: SDI 250215-02 LifePod Rendering REV A.001_MeshPart3
+    3300028: SDI 250215-02 LifePod Rendering REV A.001_MeshPart4
+    3300030: SDI 250215-02 LifePod Rendering REV A.001_MeshPart5
+    3300032: SDI 250215-02 LifePod Rendering REV A.001_MeshPart6
+    3300034: SDI 250215-02 LifePod Rendering REV A.001_MeshPart7
+    3300036: SDI 250215-02 LifePod Rendering REV A.001_MeshPart8
+    3300038: SDI 250215-02 LifePod Rendering REV A.001_MeshPart9
+    3300040: SDI 250215-02 LifePod Rendering REV A_MeshPart0
+    3300042: SDI 250215-02 LifePod Rendering REV A_MeshPart1
+    3300044: SDI 250215-02 LifePod Rendering REV A_MeshPart10
+    3300046: SDI 250215-02 LifePod Rendering REV A_MeshPart11
+    3300048: SDI 250215-02 LifePod Rendering REV A_MeshPart12
+    3300050: SDI 250215-02 LifePod Rendering REV A_MeshPart13
+    3300052: SDI 250215-02 LifePod Rendering REV A_MeshPart14
+    3300054: SDI 250215-02 LifePod Rendering REV A_MeshPart15
+    3300056: SDI 250215-02 LifePod Rendering REV A_MeshPart16
+    3300058: SDI 250215-02 LifePod Rendering REV A_MeshPart17
+    3300060: SDI 250215-02 LifePod Rendering REV A_MeshPart2
+    3300062: SDI 250215-02 LifePod Rendering REV A_MeshPart3
+    3300064: SDI 250215-02 LifePod Rendering REV A_MeshPart4
+    3300066: SDI 250215-02 LifePod Rendering REV A_MeshPart5
+    3300068: SDI 250215-02 LifePod Rendering REV A_MeshPart6
+    3300070: SDI 250215-02 LifePod Rendering REV A_MeshPart7
+    3300072: SDI 250215-02 LifePod Rendering REV A_MeshPart8
+    3300074: SDI 250215-02 LifePod Rendering REV A_MeshPart9
+    4300000: SDI 250215-02 LifePod Rendering REV A.001_MeshPart0
+    4300002: SDI 250215-02 LifePod Rendering REV A.001_MeshPart1
+    4300004: SDI 250215-02 LifePod Rendering REV A.001_MeshPart2
+    4300006: SDI 250215-02 LifePod Rendering REV A.001_MeshPart3
+    4300008: SDI 250215-02 LifePod Rendering REV A.001_MeshPart4
+    4300010: SDI 250215-02 LifePod Rendering REV A.001_MeshPart5
+    4300012: SDI 250215-02 LifePod Rendering REV A.001_MeshPart6
+    4300014: SDI 250215-02 LifePod Rendering REV A.001_MeshPart7
+    4300016: SDI 250215-02 LifePod Rendering REV A.001_MeshPart8
+    4300018: SDI 250215-02 LifePod Rendering REV A.001_MeshPart9
+    4300020: SDI 250215-02 LifePod Rendering REV A.001_MeshPart10
+    4300022: SDI 250215-02 LifePod Rendering REV A.001_MeshPart11
+    4300024: SDI 250215-02 LifePod Rendering REV A.001_MeshPart12
+    4300026: SDI 250215-02 LifePod Rendering REV A.001_MeshPart13
+    4300028: SDI 250215-02 LifePod Rendering REV A.001_MeshPart14
+    4300030: SDI 250215-02 LifePod Rendering REV A.001_MeshPart15
+    4300032: SDI 250215-02 LifePod Rendering REV A.001_MeshPart16
+    4300034: SDI 250215-02 LifePod Rendering REV A.001_MeshPart17
+    4300036: SDI 250215-02 LifePod Rendering REV A_MeshPart0
+    4300038: Cube
+    4300040: SDI 250215-02 LifePod Rendering REV A_MeshPart1
+    4300042: SDI 250215-02 LifePod Rendering REV A_MeshPart2
+    4300044: SDI 250215-02 LifePod Rendering REV A_MeshPart3
+    4300046: SDI 250215-02 LifePod Rendering REV A_MeshPart4
+    4300048: SDI 250215-02 LifePod Rendering REV A_MeshPart5
+    4300050: SDI 250215-02 LifePod Rendering REV A_MeshPart6
+    4300052: SDI 250215-02 LifePod Rendering REV A_MeshPart7
+    4300054: SDI 250215-02 LifePod Rendering REV A_MeshPart8
+    4300056: SDI 250215-02 LifePod Rendering REV A_MeshPart9
+    4300058: SDI 250215-02 LifePod Rendering REV A_MeshPart10
+    4300060: SDI 250215-02 LifePod Rendering REV A_MeshPart11
+    4300062: SDI 250215-02 LifePod Rendering REV A_MeshPart12
+    4300064: SDI 250215-02 LifePod Rendering REV A_MeshPart13
+    4300066: SDI 250215-02 LifePod Rendering REV A_MeshPart14
+    4300068: SDI 250215-02 LifePod Rendering REV A_MeshPart15
+    4300070: SDI 250215-02 LifePod Rendering REV A_MeshPart16
+    4300072: SDI 250215-02 LifePod Rendering REV A_MeshPart17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
